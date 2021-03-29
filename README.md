@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ## Heyyo, I'm <a href="https://aleehpandita.me" target="_blank">Aleehpandita</a>!
 
-🔭 I’m currently working on
+🔭   I’m currently working on NextJS Ecommerce project
+
+🌱   I’m currently learning Python

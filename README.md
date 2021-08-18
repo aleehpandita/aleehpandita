@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 🔭   I’m currently working on NextJS Ecommerce project
 
 🌱   I’m currently learning Python
+
+🤔   I’m looking for help with a NuxtJs Project im working on
+
+✨   Fun fact: I Love One Piece 🏴‍☠️
